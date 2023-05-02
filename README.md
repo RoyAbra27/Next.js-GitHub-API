@@ -2,6 +2,8 @@
 
 This is a simple web application built with Next.js that allows users to see and search Developer courses, aswell to browse GitHub repositories using the GitHub API.
 
+https://next-js-git-hub-8q5qy3h61-royabra27.vercel.app/
+
 ## Installation
 
 To use this project, follow these steps:
